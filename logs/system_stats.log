@@ -1,0 +1,22 @@
+[2025-03-16 22:19:18] - Monitoreo de Recursos del Sistema
+=============================================
+CPU Usage:
+  Uso: 21,3%
+RAM Usage:
+  Total: 7,5Gi, Usado: 1,8Gi, Libre: 3,6Gi
+Disk Usage:
+  Total: 76G, Usado: 62G, Disponible: 11G
+Network Usage:
+
+[2025-03-16 22:21:57] - Monitoreo de Recursos del Sistema
+=============================================
+CPU Usage:
+  Uso: 78,2%
+RAM Usage:
+  Total: 7,5Gi, Usado: 1,8Gi, Libre: 3,6Gi
+Disk Usage:
+  Total: 76G, Usado: 62G, Disponible: 11G
+Network Usage:
+        RX packets 17126  bytes 12072184 (12.0 MB)
+        TX packets 6255  bytes 1801061 (1.8 MB)
+
